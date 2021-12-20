@@ -1,1 +1,1 @@
-prompt("Hello ma gueule!")
+prompt("Hello! 😎")
